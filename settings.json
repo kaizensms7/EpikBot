@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Epik Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EpkiFriendsServer.aternos.me",
+    "port": 21490,
     "version": "",
     "try-creative": false
   },
